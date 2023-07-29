@@ -1,4 +1,4 @@
-package data_structure;
+package data_structure.prefix_sum;
 
 import java.io.BufferedReader;
 import java.io.IOException;
