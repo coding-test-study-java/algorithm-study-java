@@ -1,8 +1,10 @@
-package data_structure.two_pointer;
+package data_structure.DoIt_알고리즘_코딩테스트_자바편.two_pointer;
 
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
+import java.util.ArrayList;
+import java.util.List;
 import java.util.StringTokenizer;
 
 public class No1940_주몽의_명령 {
@@ -80,4 +82,5 @@ public class No1940_주몽의_명령 {
 			throw new RuntimeException(e);
 		}
 	}
+	List<Long> test = new ArrayList<>();
 }

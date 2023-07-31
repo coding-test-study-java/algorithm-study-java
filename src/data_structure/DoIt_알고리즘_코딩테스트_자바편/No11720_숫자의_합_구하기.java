@@ -1,4 +1,4 @@
-package data_structure;
+package data_structure.DoIt_알고리즘_코딩테스트_자바편;
 
 import java.io.BufferedReader;
 import java.io.IOException;

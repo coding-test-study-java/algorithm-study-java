@@ -1,4 +1,4 @@
-package data_structure.prefix_sum;
+package data_structure.DoIt_알고리즘_코딩테스트_자바편.prefix_sum;
 
 import java.io.BufferedReader;
 import java.io.IOException;

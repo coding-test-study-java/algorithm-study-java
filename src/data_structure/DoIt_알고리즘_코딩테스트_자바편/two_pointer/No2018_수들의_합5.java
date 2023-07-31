@@ -1,4 +1,4 @@
-package data_structure.two_pointer;
+package data_structure.DoIt_알고리즘_코딩테스트_자바편.two_pointer;
 
 import java.io.BufferedReader;
 import java.io.IOException;
