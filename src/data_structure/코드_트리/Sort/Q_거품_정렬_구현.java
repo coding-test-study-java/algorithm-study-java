@@ -1,4 +1,4 @@
-package data_structure.코드_트리.Bubble_Sort;
+package data_structure.코드_트리.Sort;
 
 import java.io.*;
 import java.util.*;
